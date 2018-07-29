@@ -1,5 +1,3 @@
-import random
-
 class tic_tac_toe:
 
   def __init__(self):
